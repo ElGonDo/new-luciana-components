@@ -1,0 +1,12 @@
+.container {
+    padding: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .container:hover {
+    background-color: #e0e0e0;
+  }

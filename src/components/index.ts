@@ -1,0 +1,1 @@
+export { default as MiComponente } from './MiComponente';
