@@ -1,5 +1,4 @@
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin'); // Importa el plugin
 
 module.exports = {
     entry: './src/index.ts',
