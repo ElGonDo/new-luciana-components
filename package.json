@@ -1,11 +1,11 @@
 {
   "name": "new-luciana-components",
   "version": "1.0.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/bundle.js",
+  "types": "dist/index.d.ts", 
   "scripts": {
     "dev": "webpack --watch",
-    "build": "webpack"
+    "build": "webpack --config webpack.config.js"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
